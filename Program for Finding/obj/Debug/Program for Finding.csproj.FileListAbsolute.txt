@@ -1,0 +1,9 @@
+D:\tio\Program for Finding\Program for Finding\bin\Debug\Program_for_Finding.exe
+D:\tio\Program for Finding\Program for Finding\bin\Debug\Program_for_Finding.pdb
+D:\tio\Program for Finding\Program for Finding\bin\Debug\Newtonsoft.Json.dll
+D:\tio\Program for Finding\Program for Finding\bin\Debug\Newtonsoft.Json.xml
+D:\tio\Program for Finding\Program for Finding\obj\Debug\Program for Finding.csproj.AssemblyReference.cache
+D:\tio\Program for Finding\Program for Finding\obj\Debug\Program for Finding.csproj.CoreCompileInputs.cache
+D:\tio\Program for Finding\Program for Finding\obj\Debug\Program for Finding.csproj.CopyComplete
+D:\tio\Program for Finding\Program for Finding\obj\Debug\Program_for_Finding.exe
+D:\tio\Program for Finding\Program for Finding\obj\Debug\Program_for_Finding.pdb
